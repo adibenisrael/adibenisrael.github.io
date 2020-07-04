@@ -1,0 +1,5 @@
+baseURL = "http://adi.ben-israel.com/"
+languageCode = "en-us"
+title = "Adi Ben-Israel"
+theme = "toha"
+
